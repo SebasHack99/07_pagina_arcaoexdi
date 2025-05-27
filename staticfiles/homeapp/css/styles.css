@@ -1,0 +1,26 @@
+/* homeapp/static/homeapp/css/styles.css */
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.4rem;
+}
+
+.nav-link {
+    transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+    color: #ffc107 !important;
+    transform: scale(1.05);
+}
+
+footer {
+    background-color: #111;
+    font-size: 0.9rem;
+}
